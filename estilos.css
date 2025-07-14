@@ -36,11 +36,11 @@ p {
 
 .ciclo h2 {
   text-align: center;
-  background-color: #e6f0fa;
+  background-color: #7A918D;
   padding: 8px;
   border-radius: 8px;
   font-size: 1.1rem;
-  color: #005b96;
+  color: #FFFFFF;
 }
 
 .curso {
@@ -58,13 +58,13 @@ p {
 }
 
 .curso.completado {
-  background-color: #73a942;
+  background-color: #9CB380;
   color: white;
   font-weight: bold;
 }
 
 .curso.desbloqueado {
-  background-color: #7a918d;
+  background-color: ##D4E09B;
   color: white;
 }
 
