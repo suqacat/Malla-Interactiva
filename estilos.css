@@ -58,13 +58,13 @@ p {
 }
 
 .curso.completado {
-  background-color: #4caf50;
+  background-color: #73a942;
   color: white;
   font-weight: bold;
 }
 
 .curso.desbloqueado {
-  background-color: #2196f3;
+  background-color: #7a918d;
   color: white;
 }
 
